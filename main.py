@@ -1,5 +1,7 @@
-import pandas
-import calculate
 print("Hello ,World ! ")
-print(calculate.x)
-print("hi a defination")
+print("Hello this is my name:" + input("Name here"))
+print("Hello this is my Second name:" +  input("Second Name here"))
+x = int(input("x value :"))
+y = x *2
+z = y * 20
+print(z)
